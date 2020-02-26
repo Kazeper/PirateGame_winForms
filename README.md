@@ -1,7 +1,7 @@
 # PirateGame_winForms
 <br><br>
 <article>
-	This simple random field generator was created to improves Pen and Paper Game version by choosing the field and unify fields' map.
+	This simple random field generator was created to improve pen and paper game version by choosing the field and unify fields' map.
 	full game description available at:	
 </article>
 <br>
